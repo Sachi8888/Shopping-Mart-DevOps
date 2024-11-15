@@ -1,15 +1,5 @@
 # Deploying A Node Js Application on AWS EC2
 
-It is a simple shopping mart application with some good features. This project is a beginner friendly project on nodejs,
-where you will get to understand about basic file structure of an project, routing, MongoDB schemas, EJS, Validations and many more basics features of a application.
-
-Tech Stack Used:
-
-- NodeJS
-- ExpressJS
-- EJS
-- MongoDB
-
 ### Testing the project locally
 
 1. Clone this project
